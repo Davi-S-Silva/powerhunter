@@ -1,6 +1,6 @@
 # powerhunter
 
-champions return to arms game clone
+#champions return to arms game clone
 plataforms - pc
 genre - action RPG
 developer - gportal studio
